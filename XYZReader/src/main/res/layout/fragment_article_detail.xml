@@ -10,7 +10,7 @@
         android:id="@+id/detail_app_bar"
         android:layout_width="match_parent"
         android:layout_height="@dimen/detail_title"
-        app:elevation="@dimen/fab_elevation"
+        app:elevation="@dimen/fab_elevation_app_bar"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
         <android.support.design.widget.CollapsingToolbarLayout
